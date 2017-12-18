@@ -2,7 +2,7 @@
 % Please edit documentation in R/getContent.R
 \name{getContentBody}
 \alias{getContentBody}
-\title{Get Content body name.}
+\title{Get Content Body.}
 \usage{
 getContentBody(html_obj, body_node_info = "div#articleBodyContents",
   body_attr = "")

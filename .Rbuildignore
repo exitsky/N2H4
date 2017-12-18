@@ -1,3 +1,6 @@
 ^.*\.Rproj$
 ^\.Rproj\.user$
 ./docker*
+CODE_OF_CONDUCT.md
+_config.yml
+.travis.yml

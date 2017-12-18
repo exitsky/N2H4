@@ -2,7 +2,7 @@
 % Please edit documentation in R/getContent.R
 \name{getContentDatetime}
 \alias{getContentDatetime}
-\title{Get Content datetime}
+\title{Get Content Datetime}
 \usage{
 getContentDatetime(html_obj, datetime_node_info = "span.t11",
   datetime_attr = "", getEdittime = TRUE)
